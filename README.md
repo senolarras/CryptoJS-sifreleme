@@ -1,10 +1,10 @@
-# alura-challenge1
+# CryptoJS-sifreleme
 
 ## Live Preview
 
-[Link](https://alura-challenge1.netlify.app/)
+[Link](https://dusuncekatalogu.com/sifreleme/)
 
-## Techonologies
+## Kullanılan Teknolojiler
 
 - Vue
 - HTML
